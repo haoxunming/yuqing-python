@@ -1,0 +1,12 @@
+{
+	"MySQL": {
+		"default_profile": "hstest",
+		"default_port": 3306,
+		"default_database": "cdm2",
+		"wesite_collection": {
+			"username": "public_sentiment",
+			"password": "YWkANP6cDa62k5JK",
+			"host": "47.94.246.151"
+		}
+	}
+}

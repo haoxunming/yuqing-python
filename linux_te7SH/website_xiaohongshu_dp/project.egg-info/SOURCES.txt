@@ -1,0 +1,15 @@
+setup.py
+project.egg-info/PKG-INFO
+project.egg-info/SOURCES.txt
+project.egg-info/dependency_links.txt
+project.egg-info/entry_points.txt
+project.egg-info/top_level.txt
+website_xiaohongshu_dp/__init__.py
+website_xiaohongshu_dp/es_utils.py
+website_xiaohongshu_dp/items.py
+website_xiaohongshu_dp/main.py
+website_xiaohongshu_dp/middlewares.py
+website_xiaohongshu_dp/pipelines.py
+website_xiaohongshu_dp/settings.py
+website_xiaohongshu_dp/spiders/__init__.py
+website_xiaohongshu_dp/spiders/xiaohongshu.py

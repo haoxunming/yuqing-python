@@ -1,0 +1,2 @@
+[scrapy]
+settings = website_weibo.settings

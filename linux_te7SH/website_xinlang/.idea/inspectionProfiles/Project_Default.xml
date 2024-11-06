@@ -1,0 +1,27 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="Eslint" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="banting.tools.data.prefill.shared" />
+          <option value="banting.tools.data.prefill.dateutil" />
+          <option value="shared.common_r" />
+          <option value="shared.config_r" />
+          <option value="shared.huashu_r" />
+          <option value="eijkman.tools.data.read_raw.mysql" />
+          <option value="shared.mysql_helper_r" />
+          <option value="shared.mssql_helper_r" />
+          <option value="shared.chineseID" />
+          <option value="shared.common" />
+          <option value="shared.huashu" />
+          <option value="shared.mysql_helper" />
+          <option value="shared.config" />
+          <option value="website_wangyi.sittings" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="TsLint" enabled="true" level="WARNING" enabled_by_default="true" />
+  </profile>
+</component>
